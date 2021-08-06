@@ -1,0 +1,2 @@
+(this["webpackJsonpsuper-maps"]=this["webpackJsonpsuper-maps"]||[]).push([[0],{9:function(e,s,t){"use strict";t.r(s);var n=t(0),p=(t(2),t(3));var r=function(){return Object(n.jsx)("div",{})};t.n(p).a.render(Object(n.jsx)(r,{}),document.getElementById("app"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.2511daf9.chunk.js.map
